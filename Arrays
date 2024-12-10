@@ -1,3 +1,7 @@
+// create loop and find smallest and largest number -------------------------------------------
+
+-- code start ----
+
 #include <iostream>
 
 int main() 
@@ -15,3 +19,4 @@ int main()
 }
 
 
+---- code end ----
